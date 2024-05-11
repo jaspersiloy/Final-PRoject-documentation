@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudegetBuddy", "BudegetBuddy\BudegetBuddy.csproj", "{DAFCC16C-BB51-423F-8D61-1098404A75CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Debug|x86.ActiveCfg = Debug|x86
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Debug|x86.Build.0 = Debug|x86
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Release|x86.ActiveCfg = Release|x86
+		{DAFCC16C-BB51-423F-8D61-1098404A75CD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32718FF-D3E8-4716-9C8A-BB2793BE0599}
+	EndGlobalSection
+EndGlobal
